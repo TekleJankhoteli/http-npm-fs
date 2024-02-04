@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "moment": "^2.30.1"
+  },
+  "name": "http-npm-fs",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "app.cjs",
+  "type": "commonjs",
+  "devDependencies": {},
+  "scripts": {
+    "start":"node app.cjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
